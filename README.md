@@ -1,0 +1,1 @@
+This is an in-progress port of my Python/Django Farmer's Market group project to the MEAN stack. After the basic app works I plan to add a "wall" and maybe work with the Google Maps API some more and add a few more features.
